@@ -2,8 +2,6 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/steviedas/TomSachsWall)
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/w/steviedas/TomSachsWall)
 
-[Pictures](#pictures)
-
 This project is based around a Tom Sachs Project. The particular project that I wanted to recreate was rather simple. A white primed piece of plyboard is screwed to the wall. A completely straight line is drawn as the first line at the top of the board. Visitors are then asked to do as many pushups as possible, and then and then draw a line as close to the line above as possible. Obviously, with your arms already fatigued, the lines aren't going to be straight. This variation of the hand-drawn lines provides natural deviations that almost look like contour lines. There are several rules that one must follow:
 * Draw a line as close as you can to the one above it without touching.
 * If you touch the line, your turn is over.
