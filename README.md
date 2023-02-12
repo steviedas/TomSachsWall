@@ -12,7 +12,6 @@ Each of the failures result in a red cross being drawn at the end of each attemp
 
 I have attemped this physically on a smaller scale, with some modifications to the rules. Most importantly, not requiring each of the visitors to do as many pushups as possible. This is the result below, however, our achieved line density below is somewhat more than that of the insatallation example.  
 
-
 <p align="center">
 <img src="https://github.com/steviedas/TomSachsWall/raw/main/pictures/TomSachsWood.jpg"
   alt="Size Limit comment in pull request about bundle size changes"
@@ -20,7 +19,7 @@ I have attemped this physically on a smaller scale, with some modifications to t
 
 As the the endeavour took well over 4 hours of populating the lines on the page. I decided to come up with a different solution, by coding it in java to programmatically create a picture within any browser. Below is an example of how the program recreates this project.
   
-<p align="center">
-<img src="https://github.com/steviedas/TomSachsWall/raw/main/pictures/TomSachsWood1.jpg"
-  alt="Size Limit comment in pull request about bundle size changes"
-</p>
+><p align="center">
+><img src="https://github.com/steviedas/TomSachsWall/raw/main/pictures/TomSachsWood1.jpg"
+>  alt="Size Limit comment in pull request about bundle size changes"
+></p>
