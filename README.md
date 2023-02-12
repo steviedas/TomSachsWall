@@ -14,13 +14,13 @@ I have attemped this physically on a smaller scale, with some modifications to t
 
 
 <p align="center">
-<img src="https://github.com/steviedas/StarSchemaProject/raw/main/pictures/DeltaTables.png"
+<img src="https://github.com/steviedas/TomSachsWall/raw/main/pictures/TomSachsWood.jpg"
   alt="Size Limit comment in pull request about bundle size changes"
 </p>
 
 As the the endeavour took well over 4 hours of populating the lines on the page. I decided to come up with a different solution, by coding it in java to programmatically create a picture within any browser. Below is an example of how the program recreates this project.
   
 <p align="center">
-<img src="https://github.com/steviedas/StarSchemaProject/raw/main/pictures/DeltaTables.png"
+<img src="https://github.com/steviedas/TomSachsWall/raw/main/pictures/TomSachsWood1.jpg"
   alt="Size Limit comment in pull request about bundle size changes"
 </p>
