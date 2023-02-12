@@ -1,4 +1,4 @@
-# Tom Sach's Wall Art
+# Tom Sach's Wall Art Project
 ![GitHub last commit](https://img.shields.io/github/last-commit/steviedas/TomSachsWall)
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/w/steviedas/TomSachsWall)
 
