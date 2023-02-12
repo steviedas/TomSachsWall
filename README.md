@@ -25,6 +25,6 @@ I have attemped this physically on a smaller scale, with some modifications to t
 As the the endeavour took well over 4 hours of populating the lines on the page. I decided to come up with a different solution, by coding it in java to programmatically create a picture within any browser. Below is an example of how the program recreates this project.
   
 <p align="center">
-<img src="https://raw.githubusercontent.com/steviedas/TomSachsWall/main/Pictures/4k_image.png"
+<img src="https://raw.githubusercontent.com/steviedas/TomSachsWall/main/Pictures/4k_render.png"
   alt="Size Limit comment in pull request about bundle size changes"
 </p>
